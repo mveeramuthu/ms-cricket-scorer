@@ -1,0 +1,1 @@
+ms-cricket-scorer
